@@ -1,4 +1,4 @@
-# 用户手册
+# 快速入门
 
 ## Getting Super Powers
 
