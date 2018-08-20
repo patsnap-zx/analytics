@@ -1,18 +1,18 @@
 # 使用向导
 
-## Getting Super Powers
+## 换成中文看看
 
-Becoming a super hero is a fairly straight forward process:
+我就是一段实验文:
 
 ```
 $ give me super-powers
 ```
 
 {% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+ 需要注意，接下来你要面对的是一堆一堆的方块字。
 {% endhint %}
 
-Once you're strong enough, save the world:
+他的名字，叫做tofu块儿:
 
 ```
 // Ain't no code for that yet, sorry
